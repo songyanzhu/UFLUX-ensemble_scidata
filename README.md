@@ -1,4 +1,4 @@
-# Scripts for Unified FLUXes (UFLUX) ensemble publication in SciData
+# Scripts for Unified FLUXes (UFLUX) ensemble publication in SciData [DRAFT]
 
 Terrestrial ecosystems regulate climate by absorbing about one-third of anthropogenic CO2 emissions. Monitoring carbon,
 water, and energy fluxes is essential for understanding ecosystem responses to climate change. However, existing flux datasets
