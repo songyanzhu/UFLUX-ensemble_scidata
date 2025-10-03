@@ -3,6 +3,7 @@
 UFLUX-emsemble model training and products generating program
 Author: Songyan Zhu
 Email: Songyan.Zhu@soton.ac.uk
+Note: code is gegeranted by SZ but comments are producced with help of GenAI
 """
 
 import numpy as np # Fundamental package for numerical computing
