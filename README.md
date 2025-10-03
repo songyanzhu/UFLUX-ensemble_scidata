@@ -15,7 +15,7 @@ The code is written in Python, with explanatory comments (including some generat
 
 - The **default machine learning model** is **DeepForest 21**, with options to switch to **XGBoost** or **Random Forest**.  
 - The repository includes two main scripts:  
-  1. Training the machine learning model on site-level data and applying it to gridded datasets to generate products: [UFLUX-ensemble_generate.py](https://github.com/songyanzhu/UFLUX-ensemble_scidata/blob/main/UFLUX-ensemble_generate.py).  
+  1. Training the machine learning model on site-level data and applying it to gridded datasets to generate products: [`UFLUX-ensemble_generate.py`](https://github.com/songyanzhu/UFLUX-ensemble_scidata/blob/main/UFLUX-ensemble_generate.py).  
   2. Processing UFLUX ensemble products for analysis and presentation (e.g., figures and tables for the manuscript): [UFLUX-ensemble_process.py](https://github.com/songyanzhu/UFLUX-ensemble_scidata/blob/main/UFLUX-ensemble_process.py).
 
 ## Data Availability
