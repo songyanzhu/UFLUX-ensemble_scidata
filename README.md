@@ -19,7 +19,7 @@ This repository includes two scritps:
 - training the machine leanring model at site level data and applying them to grid data to produce products
 - process the UFLUX ensmeble products to analyse and presetn, i.e., figures and tables of the manuscropt.
 
-The Data for this repo are on Zenodo
+The Data for this repo are on Zenodo: [https://zenodo.org/records/17255948](https://zenodo.org/records/17255948)
 The products are also on Zenodo:
 
 -----
