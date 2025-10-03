@@ -1,6 +1,7 @@
 # Scripts for Unified FLUXes (UFLUX) Ensemble Publication in *Scientific Data*
 
-contactAuthor: Songyan Zhu
+Author: Songyan Zhu
+
 Email: Songyan.Zhu@soton.ac.uk
 
 ## Abstract
