@@ -21,9 +21,8 @@ The code is written in Python, with explanatory comments (including some generat
 ## Data Availability
 - Input data for this repository are hosted on Zenodo: [https://zenodo.org/records/17255948](https://zenodo.org/records/17255948)  
 - UFLUX ensemble products are available on Zenodo:  
-
-### Global
-- **Global 0.25° monthly (Globe025dmonthly)**: [doi:10.5281/zenodo.10461598](https://doi.org/10.5281/zenodo.10461598)  
+  - Global
+  - **Global 0.25° monthly (Globe025dmonthly)**: [doi:10.5281/zenodo.10461598](https://doi.org/10.5281/zenodo.10461598)  
 
 ### Europe
 - **European 0.25° daily (Europe025ddaily)**: [doi:10.5281/zenodo.10461703](https://doi.org/10.5281/zenodo.10461703)  
