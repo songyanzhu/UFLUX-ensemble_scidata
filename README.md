@@ -1,5 +1,8 @@
 # Scripts for Unified FLUXes (UFLUX) Ensemble Publication in *Scientific Data*
 
+contactAuthor: Songyan Zhu
+Email: Songyan.Zhu@soton.ac.uk
+
 ## Abstract
 Terrestrial ecosystems play a critical role in regulating climate by absorbing approximately one-third of anthropogenic CO₂ emissions. Monitoring carbon, water, and energy fluxes is essential for understanding ecosystem responses to climate change. However, existing flux datasets often lack the spatial resolution and consistency required for heterogeneous landscapes such as UK agricultural regions.  
 
