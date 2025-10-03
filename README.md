@@ -24,50 +24,51 @@ The products are also on Zenodo:
 
 -----
 
-Overview
-The UFLUX ensemble (v1) dataset offers multiscale fluxes , generated using machine learning models. It integrates satellite-based vegetation proxies (e.g., vegetation index and solar-induced fluorescence) with climate reanalysis like ERA5, and is trained against eddy covariance observations (e.g., FLUXNET, ICOS, and Ameriflux). It  includes five core flux components:
+## Overview
 
-Gross Primary Production (GPP)
+The **UFLUX ensemble** (v1) dataset offers multiscale terrestrial carbon flux upscaling products, generated using **machine learning** models. It integrates **satellite-based vegetation proxies** (e.g., vegetation index and solar-induced fluorescence) with **climate reanalysis** like ERA5, and is trained against **eddy covariance** observations (e.g., FLUXNET, ICOS, and Ameriflux). This dataset includes five core flux components:
 
-Ecosystem Respiration (RECO)
+- Gross Primary Production (GPP)
 
-Net Ecosystem Exchange (NEE)
+- Ecosystem Respiration (RECO)
 
-Sensible Heat Flux (H)
+- Net Ecosystem Exchange (NEE)
 
-Latent Energy Flux (LE)
+- Sensible Heat Flux (H)
 
-Background and Methodology
-The Unified FLUXes (UFLUX) initiative is a data-driven, machine learning-based platform designed to upscale eddy covariance (EC) flux measurements from tower sites to the global scale. It aims to answer pressing questions about how effectively terrestrial ecosystems are managed under climate change.
+- Latent Energy Flux (LE)
+
+## Background and Methodology
+The **Unified FLUXes (UFLUX)** initiative is a data-driven, machine learning-based platform designed to upscale eddy covariance (EC) flux measurements from tower sites to the global scale. It aims to answer pressing questions about how effectively terrestrial ecosystems are managed under climate change.
 
 Key innovations of UFLUX include:
 
-Consistent Upscaling Framework: Harmonizes flux upscaling across spatial/temporal scales and multiple flux types (GPP, RECO, etc.) using deep decision tree-based methods, better suited than conventional neural networks for EC flux data.
+- `Consistent Upscaling Framework`: Harmonizes flux upscaling across spatial/temporal scales and multiple flux types (GPP, RECO, etc.) using deep decision tree-based methods, better suited than conventional neural networks for EC flux data.
 
-Hybrid Explainable ML: Combines black-box ML with ecological interpretability through residual learning, offering both predictive power and new scientific insight (UFLUXv2).
+- `Hybrid Explainable ML`: Combines black-box ML with ecological interpretability through residual learning, offering both predictive power and new scientific insight (UFLUXv2).
 
-Uncertainty Quantification: Employs sampling space completeness to assess model uncertainty in a transparent, robust manner.
+- `Uncertainty Quantification`: Employs sampling space completeness to assess model uncertainty in a transparent, robust manner.
 
-Multisource Integration: Leverages complementary strengths of vegetation proxies (e.g., NIRv, SIF) and climate data (e.g., ERA5) to represent carbon dynamics more comprehensively than single-source approaches.
+- `Multisource Integration`: Leverages complementary strengths of vegetation proxies (e.g., NIRv, SIF) and climate data (e.g., ERA5) to represent carbon dynamics more comprehensively than single-source approaches.
 
-Superior Gap-Filling: Originally developed as a global EC flux gap-filling tool, UFLUX improves accuracy by up to 30% and reduces uncertainty by as much as 70% compared to traditional methods.
+- `Superior Gap-Filling`: Originally developed as a global EC flux gap-filling tool, UFLUX improves accuracy by up to 30% and reduces uncertainty by as much as 70% compared to traditional methods.
 
-High Performance: Achieves strong predictive accuracy, with global-scale R² > 0.8 for RECO and ≈0.9 for GPP, while being computationally efficient enough to run on a standard laptop.
+- `High Performance`: Achieves strong predictive accuracy, with global-scale R² > 0.8 for RECO and ≈0.9 for GPP, while being computationally efficient enough to run on a standard laptop.
 
-Community Adoption: Already used by other global upscaling projects, highlighting its reliability and impact.
+- `Community Adoption`: Already used by other global upscaling projects, highlighting its reliability and impact.
 
-Applications
+## Applications
 UFLUX is ideal for studying the interactions between land management, climate change, and carbon fluxes, particularly in improving global estimates of GPP and RECO by addressing biases in EC measurements.
 
-Resources
+## Resources
 
-UFLUX Website: https://sites.google.com/view/uflux
+UFLUX Website: [https://sites.google.com/view/uflux](https://https://sites.google.com/view/uflux)
 
-Code Repository: https://github.com/soonyenju/uflux
+Code Repository: [https://github.com/soonyenju/uflux](https://github.com/soonyenju/uflux)
 
-Code Repository for Journal Publication: https://github.com/songyanzhu/UFLUX-ensemble_scidata
+Code Repository for Journal Publication: [https://github.com/songyanzhu/UFLUX-ensemble_scidata](https://github.com/songyanzhu/UFLUX-ensemble_scidata)
 
-Technical & Descriptive Publication: https://doi.org/10.1080/01431161.2024.2312266
+Technical & Descriptive Publication: [https://doi.org/10.1080/01431161.2024.2312266](https://doi.org/10.1080/01431161.2024.2312266)
 
 
 
