@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+UFLUX-emsemble products processing and plotting program for journal publication
+Author: Songyan Zhu
+Email: Songyan.Zhu@soton.ac.uk
+Note: code is gegeranted by SZ but comments are producced with help of GenAI
+"""
+
 # --- Standard Library Imports ---
 import numpy as np
 import pandas as pd
@@ -25,7 +33,7 @@ from sciml.regress2 import regress2 # Used for Reduced Major Axis (RMA) regressi
 
 # --- Project Setup ---
 # Define the root directory for accessing input and output files
-project_directory = root.joinpath('temp/UFLUX_ensemble_scidata')
+project_directory = Path('<YOUR PROJECT DIRECTORY>')
 
 # ------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
